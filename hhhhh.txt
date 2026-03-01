@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header><h1>Interface de configuration</h1></header>
+    <main>
+        <section>
+            <h2>Choisissez une couleur</h2>
+            <h3>Couleur préférée:</h3>
+            <input type="color">
+        </section>
+        <section>
+            <h2>Séléctionner une date</h2>
+            <h3>Date</h3>
+            <input type="date">
+        </section>
+        <section>
+            <h2>Régler un niveau</h2>
+            <h3>Niveau</h3>
+            <input type="range">
+        </section>
+        <section>
+            <h2>Télécharger un fichier</h2>
+            <h3>Sélectionnez un fichier:</h3>
+            <input type="file">
+        </section>
+        <section>
+            <h2>Vue intégrée</h2>
+            <iframe src="https://youtu.be/68oSyuKVjeU?si=daqT-BUP_tUzwhXa" frameborder="0" allowfullscreen></iframe>
+        </section>
+    </main>
+    <footer>© 2024 Interface de Configuration - Tous droits réservés.</footer>
+</body>
+</html>
